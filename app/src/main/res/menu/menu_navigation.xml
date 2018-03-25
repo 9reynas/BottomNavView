@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="pri"
+        android:icon="@drawable/ic_home_black_24dp"
+        > </item>
+
+    <item android:title="seg"
+        android:icon="@drawable/ic_3d_rotation_black_24dp"
+        > </item>
+
+    <item android:title="ter"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        > </item>
+    <item android:title="cuar"
+        android:icon="@drawable/ic_android_black_24dp"
+        > </item>
+
+    <item android:title="quin"
+        android:icon="@drawable/ic_donut_small_black_24dp"
+        > </item>
+
+
+
+
+
+
+</menu>
